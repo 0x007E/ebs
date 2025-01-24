@@ -86,9 +86,8 @@ outputs:
         - layers:
           - layer: B.Cu
           sheet: '(Bottom Copper)'
-          mirror: false
-          monochrome: true
           mirror: true
+          monochrome: true
         - layers:
           - layer: F.Silkscreen
           sheet: '(Top Silkscreen)'
