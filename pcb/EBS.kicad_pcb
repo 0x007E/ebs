@@ -251,12 +251,12 @@
       (rotate (xyz 0 0 0))
     )
     (model "${KIPRJMOD}/lib/LED_white_clear.step"
-      (offset (xyz 1.25 0 10.5))
+      (offset (xyz 1.25 0 13.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/lib/Ferrule_0.25qmm_x_6_mm_isolated_yellow.step"
-      (offset (xyz 0 0 10.25))
+    (model "${KIPRJMOD}/lib/Ferrule_0.75qmm_x_8_mm_isolated_grey.step"
+      (offset (xyz 2.5 0 13.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -90 0))
     )
@@ -647,12 +647,12 @@
       (rotate (xyz 0 0 0))
     )
     (model "${KIPRJMOD}/lib/LED_red.step"
-      (offset (xyz 1.25 0 10.5))
+      (offset (xyz 1.25 0 13.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/lib/Ferrule_0.25qmm_x_6_mm_isolated_yellow.step"
-      (offset (xyz 0 0 10.25))
+    (model "${KIPRJMOD}/lib/Ferrule_0.75qmm_x_8_mm_isolated_grey.step"
+      (offset (xyz 2.5 0 13.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -90 0))
     )
@@ -873,12 +873,12 @@
       (rotate (xyz 0 0 0))
     )
     (model "${KIPRJMOD}/lib/LED_white_clear.step"
-      (offset (xyz 1.25 0 10.5))
+      (offset (xyz 1.25 0 13.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/lib/Ferrule_0.25qmm_x_6_mm_isolated_yellow.step"
-      (offset (xyz 2.5 0 10.25))
+    (model "${KIPRJMOD}/lib/Ferrule_0.75qmm_x_8_mm_isolated_grey.step"
+      (offset (xyz 2.5 0 13.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -90 0))
     )
@@ -941,12 +941,12 @@
       (rotate (xyz 0 0 0))
     )
     (model "${KIPRJMOD}/lib/LED_white_clear.step"
-      (offset (xyz 1.25 0 10.5))
+      (offset (xyz 1.25 0 13.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/lib/Ferrule_0.25qmm_x_6_mm_isolated_yellow.step"
-      (offset (xyz 0 0 10.25))
+    (model "${KIPRJMOD}/lib/Ferrule_0.75qmm_x_8_mm_isolated_grey.step"
+      (offset (xyz 2.5 0 13.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -90 0))
     )
@@ -1561,12 +1561,12 @@
       (rotate (xyz 0 0 0))
     )
     (model "${KIPRJMOD}/lib/LED_white_clear.step"
-      (offset (xyz 1.25 0 10.5))
+      (offset (xyz 1.25 0 13.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/lib/Ferrule_0.25qmm_x_6_mm_isolated_yellow.step"
-      (offset (xyz 2.5 0 10.25))
+    (model "${KIPRJMOD}/lib/Ferrule_0.75qmm_x_8_mm_isolated_grey.step"
+      (offset (xyz 2.5 0 13.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -90 0))
     )
