@@ -26,8 +26,8 @@ preflight:
   run_erc: true
   run_drc: true
   filters:
-    # - filter: 'does not match copy in library'
-    #   error: 'lib_footprint_mismatch'
+    - filter: 'does not match copy in library'
+      error: 'lib_footprint_mismatch'
     #   regex: 'does not match copy in library'
     # - filter: 'Silkscreen overlap'
     #   error: 'silk_overlap'
