@@ -17,6 +17,8 @@ globals:
   restore_project: true
   # We will use a value externally formatted
   time_reformat: false
+  colored_tht_resistors: true
+  default_resistor_tolerance: 5
 
 preflight:
   check_zone_fills: true
