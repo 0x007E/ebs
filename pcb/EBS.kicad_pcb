@@ -251,7 +251,7 @@
       (rotate (xyz 0 0 0))
     )
     (model "${KIPRJMOD}/lib/LED_white_clear.step"
-      (offset (xyz 1.25 0 13.5))
+      (offset (xyz 0 0 10.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -652,7 +652,7 @@
       (rotate (xyz 0 0 0))
     )
     (model "${KIPRJMOD}/lib/LED_red.step"
-      (offset (xyz 1.25 0 13.5))
+      (offset (xyz 0 0 10.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -878,7 +878,7 @@
       (rotate (xyz 0 0 0))
     )
     (model "${KIPRJMOD}/lib/LED_white_clear.step"
-      (offset (xyz 1.25 0 13.5))
+      (offset (xyz 0 0 10.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -946,7 +946,7 @@
       (rotate (xyz 0 0 0))
     )
     (model "${KIPRJMOD}/lib/LED_white_clear.step"
-      (offset (xyz 1.25 0 13.5))
+      (offset (xyz 0 0 10.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -1566,7 +1566,7 @@
       (rotate (xyz 0 0 0))
     )
     (model "${KIPRJMOD}/lib/LED_white_clear.step"
-      (offset (xyz 1.25 0 13.5))
+      (offset (xyz 0 0 10.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
