@@ -184,6 +184,11 @@ outputs:
       point_of_view:
         rotate_x: 0
         rotate_z: 0
+      light:
+        energy: 0.035
+        pos_x: 0.005
+        pos_y: 0
+        pos_z: 0.04
       outputs:
         - output: 'top.%x'
         - type: render
